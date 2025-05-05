@@ -1,0 +1,5 @@
+Name  responsiblility
+Ram   Requirements
+Ravi  Design 
+Sam   Delivery
+Sita  Risk Analysis
